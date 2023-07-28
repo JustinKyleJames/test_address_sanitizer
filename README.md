@@ -2,7 +2,7 @@
 Simple test program for memory leak detection with shared object.
 
 ### To Compile and Run
-make rundlopen
+```make rundlopen```
 
 ### To Clean
-make cleandlopen
+```make cleandlopen```
